@@ -3,4 +3,6 @@ The calculation is based on [國立成功大學成績單說明](https://reg-acad
 
 Enter `python main.py` in the terminal of the same folder of main.py
 
+You can also copy and paste the whole code to your local.
+
 ![image](https://github.com/Nues0913/easy-GPA-4.3-calculator/assets/106960429/78234a74-63cc-4734-aa46-d13674dc4856)
